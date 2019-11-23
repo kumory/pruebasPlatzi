@@ -2,8 +2,12 @@ h1, p{
     text-align: center;
 }
 
+h1{
+    color: rgb(147, 212, 147);
+}
 p{
     border: 1px solid black;
     width: 400px;
     margin: auto;
 }
+
